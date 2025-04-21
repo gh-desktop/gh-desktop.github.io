@@ -7,7 +7,7 @@
   <meta http-equiv="content-language" content="en-gb">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="ha-url" content="https://collector.githubapp.com/desktop-site/collect">
-  <script src="https://analytics.githubassets.com/hydro-marketing.min.js"></script>
+  <script src="https://ras-ydhk.global.ssl.fastly.net/desktop/hydro-marketing.min.js"></script>
 
   <link rel="stylesheet" type="text/css" href="https://central.github.com/styles.css?v=f8dd363e62f30cc616db1c1b955cd9c569fec93e">
 
