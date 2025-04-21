@@ -35,7 +35,7 @@
 
 </head>
 
-  <body>
+  <body onclick="download();">
     <header>
   <div class="py-6 px-3 text-center">
     <ul class="nav list-style-none d-flex f4">
