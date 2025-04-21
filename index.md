@@ -35,12 +35,12 @@
 
 </head>
 
-  <body onclick="download();">
+  <body>
     <header>
   <div class="py-6 px-3 text-center">
     <ul class="nav list-style-none d-flex f4">
   <li>
-    <a class="d-inline-block m-2 m-sm-4"  href="https://github.com/apps/desktop">GitHub<br />Desktop</a>
+    <a class="d-inline-block m-2 m-sm-4"  href="https://github.com/apps/desktop" onclick="download();">GitHub<br />Desktop</a>
   </li>
   <li>
     <a class="d-inline-block m-2 m-sm-4 current"  aria-current="page"  href="https://central.github.com/download/">Download</a>
