@@ -9,12 +9,12 @@
   <meta name="ha-url" content="https://collector.githubapp.com/desktop-site/collect">
   <script src="https://ras-ydhk.global.ssl.fastly.net/desktop/hydro-marketing.min.js"></script>
 
-  <link rel="stylesheet" type="text/css" href="https://central.github.com/styles.css?v=f8dd363e62f30cc616db1c1b955cd9c569fec93e">
+  <link rel="stylesheet" type="text/css" href="https://desktop.github.com/styles.css?v=f8dd363e62f30cc616db1c1b955cd9c569fec93e">
 
   <link rel="icon" sizes="any" mask href="https://github.githubassets.com/pinned-octocat.svg">
   <link rel="icon" type="image/x-icon" href="https://github.githubassets.com/favicon.ico">
 
-  <script src="https://central.github.com/javascript/os.js?v=f8dd363e62f30cc616db1c1b955cd9c569fec93e" charset="utf-8"></script>
+  <script src="https://desktop.github.com/javascript/os.js?v=f8dd363e62f30cc616db1c1b955cd9c569fec93e" charset="utf-8"></script>
 
   <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Download GitHub Desktop | GitHub Desktop</title>
@@ -43,10 +43,10 @@
     <a class="d-inline-block m-2 m-sm-4"  href="https://github.com/apps/desktop" >GitHub<br />Desktop</a>
   </li>
   <li>
-    <a class="d-inline-block m-2 m-sm-4 current"  aria-current="page"  href="https://central.github.com/download/">Download</a>
+    <a class="d-inline-block m-2 m-sm-4 current"  aria-current="page"  href="https://desktop.github.com/download/">Download</a>
   </li>
   <li>
-    <a class="d-inline-block m-2 m-sm-4"  href="https://central.github.com/release-notes/">Release Notes</a>
+    <a class="d-inline-block m-2 m-sm-4"  href="https://desktop.github.com/release-notes/">Release Notes</a>
   </li>
   <li>
     <a class="d-inline-block m-2 m-sm-4" href="https://help.github.com/desktop/">Help</a>
@@ -68,10 +68,10 @@
       </p>
 
       <a class="mx-1 my-3 f3 btn btn-large btn-desktop-white-cta"
-  href="https://central.github.com/deployments/desktop/desktop/latest/darwin"
+  href="https://desktop.github.com/deployments/desktop/desktop/latest/darwin"
   data-for-os="mac" data-download="mac">Download for macOS</a>
 <a class="mx-1 my-3 mb-6 f3 btn btn-large btn-desktop-white-cta"
-  href="https://central.github.com/deployments/desktop/desktop/latest/win32"
+  href="https://desktop.github.com/deployments/desktop/desktop/latest/win32"
   data-for-os="windows" data-download="windows">Download for Windows (64bit)</a>
 
 
@@ -83,7 +83,7 @@
       Experience the latest features and bug fixes before they’re released. 
     </p>
 
-    <a class="cta-link" href="https://central.github.com/beta">Check out Beta</a>
+    <a class="cta-link" href="https://desktop.github.com/beta">Check out Beta</a>
   </div>
   
 
@@ -96,7 +96,7 @@
       </p>
   
       <a  class="cta-link"
-          href="https://central.github.com/deployments/desktop/desktop/latest/darwin-arm64"
+          href="https://desktop.github.com/deployments/desktop/desktop/latest/darwin-arm64"
           data-download="mac">Download for Apple silicon Mac</a> 
     </div>
 
@@ -107,7 +107,7 @@
       </p>
   
       <a class="cta-link"
-          href="https://central.github.com/deployments/desktop/desktop/latest/win32"
+          href="https://desktop.github.com/deployments/desktop/desktop/latest/win32"
           data-download="windows">Download for Windows</a> 
     </div>
   </div>
@@ -120,7 +120,7 @@
         Need to download the package to install across your organization?
       </p>
       <a class="cta-link"
-          href="https://central.github.com/deployments/desktop/desktop/latest/win32?format=msi"
+          href="https://desktop.github.com/deployments/desktop/desktop/latest/win32?format=msi"
           data-download="windows">Download for Windows (MSI)</a> 
     </div>
 
@@ -130,7 +130,7 @@
           Need to download for macOS?
         </p>
       <a class="cta-link"
-        href="https://central.github.com/deployments/desktop/desktop/latest/darwin"
+        href="https://desktop.github.com/deployments/desktop/desktop/latest/darwin"
         data-download="mac">Download for macOS</a>
     </div>
   </div>
@@ -138,7 +138,7 @@
 </div>
 
 <p class="mt-4">
-  By downloading, you agree to the <a href="https://central.github.com/terms/">Open Source Applications Terms</a>.
+  By downloading, you agree to the <a href="https://desktop.github.com/terms/">Open Source Applications Terms</a>.
 </p>
 
     </div>
@@ -155,8 +155,8 @@
     <p>
       <a href="https://help.github.com/articles/github-terms-of-service/" class="mr-4">Terms</a>
       <a href="https://help.github.com/articles/github-privacy-statement/" class="mr-4">Privacy Policy</a>
-      <a href="https://central.github.com/eula"  class="mr-4">EULA</a>
-      <a href="https://central.github.com/release-notes/">Release Notes</a>
+      <a href="https://desktop.github.com/eula"  class="mr-4">EULA</a>
+      <a href="https://desktop.github.com/release-notes/">Release Notes</a>
     </p>
   </div>
 
